@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#174ADD",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "失物招领",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#174ADD",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "论坛举报",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "zb-table": "/components/zb-table/zb-table"
+  }
+}

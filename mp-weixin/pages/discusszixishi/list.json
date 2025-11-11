@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#174ADD",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "自习室评论表",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
